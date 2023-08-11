@@ -1,1 +1,1 @@
-this project is all about task of if,while, for
+0x01 c variable,if,while

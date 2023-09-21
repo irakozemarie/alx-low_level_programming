@@ -1,6 +1,5 @@
 /*
- * File: 1-list_len.c
- * 
+ * File: 1-list_len.c 
  */
 
 #include "lists.h"

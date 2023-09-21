@@ -1,6 +1,5 @@
 /*
- * File: 2-add_node.c
- *Auth: anto 
+ * File: 2-add_node.c 
  */
 
 #include "lists.h"
